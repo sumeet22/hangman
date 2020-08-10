@@ -21,6 +21,6 @@ Have 3 lifelines:
 
 
 To run the code:
-npm install
+npm install \n
 node hangman.js
 
