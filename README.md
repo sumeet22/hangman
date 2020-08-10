@@ -20,3 +20,7 @@ Have 3 lifelines:
 
 
 
+To run the code:
+npm install
+node hangman.js
+
