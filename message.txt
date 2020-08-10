@@ -1,0 +1,32 @@
+user:vijay Game Over 
+user:sumit Game Over 
+user:vijay, lifelines Used: Hint,Next Word
+user:vijay, lifelines Used: , Score: 2, Win 
+user:t, lifelines Used: , Score: 2, Win 
+user:f, lifelines Used: , Score: 2, Win 
+user:vijay, lifelines Used: , Score: 2, Win 
+user:gh, lifelines Used: , Score: -1, Lose 
+user:bh, lifelines Used: , Score: 2, Win 
+user:hj, lifelines Used: Hint,Next Word,reveal vowels, Score: 2, Win 
+user:sumit, lifelines Used: , Score: 1, Lose 
+user:Sumit, lifelines Used: Hint,reveal vowels, Score: 1, Lose 
+user:sumit, lifelines Used: , Score: 1, Lose 
+user:suit, lifelines Used: , Score: -1, Lose 
+user:summit, lifelines Used: , Score: -1, Lose 
+user:sumit, lifelines Used: , Score: -1, Lose 
+user:s, lifelines Used: , Score: 0, Lose 
+user:su, lifelines Used: , Score: -1, Lose 
+user:a, lifelines Used: , Score: -1, Lose 
+user:a, lifelines Used: , Score: 0, Lose 
+user:s, lifelines Used: , Score: -1, Lose 
+user:true, lifelines Used: , Score: 0, Lose 
+user:sumit, lifelines Used: , Score: -1, Lose 
+user:sumit, lifelines Used: , Score: -1, Lose 
+user:sumit, lifelines Used: , Score: -1, Lose 
+user:s, lifelines Used: , Score: -1, Lose 
+user:sumit, lifelines Used: , Score: -1, Lose 
+user:w, lifelines Used: , Score: -1, Lose 
+user:w, lifelines Used: , Score: 0, Lose 
+user:w, lifelines Used: , Score: -1, Lose 
+user:sumit, lifelines Used: , Score: -1, Lose 
+user:sumit, lifelines Used: , Score: 0, Lose 
